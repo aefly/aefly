@@ -65,6 +65,8 @@ SysAdmin 👨‍💻 //  Web Developer 🌐 // Designer 🎨 // Gamer 🎮
 
 Feel free to get in touch with me at [aefly.gg@pm.me](mailto:aefly.gg@pm.me)
 
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31gx3um35hp5nhbgc54odzxgwldy)
+
 ##
 
 <sub>🖤 𝘸𝘰𝘳𝘭𝘥.𝘦𝘹𝘦𝘤𝘶𝘵𝘦(𝘮𝘦);</sub>
