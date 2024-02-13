@@ -63,7 +63,7 @@ SysAdmin 👨‍💻 //  Web Developer 🌐 // Designer 🎨 // Gamer 🎮
 
 ### 📧 Contact
 
-Feel free to get in touch with me at [aefly.gg@pm.me](mailto:aefly.gg@pm.me)
+Feel free to get in touch with me at [contact@aefly.gg](mailto:contact@aefly.gg)
 
 ##
 
