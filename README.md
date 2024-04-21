@@ -12,7 +12,7 @@ SysAdmin 👨‍💻 //  Web Developer 🌐 // Designer 🎨 // Gamer 🎮
 
 - 🌱 I'm currently learning Python
 - 🔭 I'm currently working on [Hinode](https://github.com/gethinode/hinode)
-- 🧠 Passionate about coding and innovation
+- 🧠 Passionate about coding, new tech and self hosted
 
 ##
 
