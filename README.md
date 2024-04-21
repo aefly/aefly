@@ -59,6 +59,7 @@ SysAdmin 👨‍💻 //  Web Developer 🌐 // Designer 🎨 // Gamer 🎮
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg?style=for-the-badge&logo=FileZilla&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
 
 ##
 
