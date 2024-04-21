@@ -49,7 +49,6 @@ SysAdmin 👨‍💻 //  Web Developer 🌐 // Designer 🎨 // Gamer 🎮
 <h4>☁️ Hosting</h4>
 
 ![OVH](https://img.shields.io/badge/OVH-123F6D.svg?style=for-the-badge&logo=OVH&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 
 <h4>🖥️ Softwares</h4>
 
