@@ -18,7 +18,7 @@
 
 ## ❤️ Preferred tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center">
+<div>
   <a
     href="https://code.visualstudio.com"
     target="_blank"
