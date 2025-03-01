@@ -1,6 +1,6 @@
 # 👋 Hi, I'm *aefly*
 
-![Banner](https://github.com/aefly/aefly/blob/main/img/banner.webp?raw=true)
+![Banner](https://github.com/aefly/aefly/blob/main/img/banner.png?raw=true)
 
 <p align="center">
 👨‍💻 SysAdmin // 🌐 Web Developer // 🎨 Designer // 🎮 Gamer
@@ -78,13 +78,6 @@
       height="24"
       src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg"
       alt="Photoshop"
-    />
-  </a>
-  <a href="https://obsidian.md" target="_blank" title="Obsidian">
-    <img
-      height="24"
-      src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg"
-      alt="Obsidian"
     />
   </a>
   <a href="https://www.spotify.com" target="_blank" title="Spotify">
