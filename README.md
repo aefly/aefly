@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm _aefly_
 
-## Sysadmin / DevOps  / Webdev
+## Sysadmin / DevOps / Webdev
 
 I specialize in building and maintaining robust infrastructure, streamlining
 automation, and developing efficient, user-friendly web applications.
@@ -32,7 +32,7 @@ automation, and developing efficient, user-friendly web applications.
 
 ### 📫 Contact
 
-- Email: <aefly.gg@pm.me>
+- Email: <aefly@ntcp.cloud>
 
 ### 🔐 GPG Key
 
@@ -53,3 +53,4 @@ Hc5ZJx0EzRcEHdsf1oRwx/ikdWtl/NrkN/04PwD+MpZGs0D2Af9p43PIKbsJYz4/
 BAEE15r/QQ+b+k1LwQI=
 =tmF4
 -----END PGP PUBLIC KEY BLOCK-----
+```
