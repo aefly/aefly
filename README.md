@@ -54,3 +54,9 @@ BAEE15r/QQ+b+k1LwQI=
 =tmF4
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+</details>
+
+### 📊 GitHub Stats
+
+![Stats](https://github-stats-extended.ntcp.cloud/api?username=aefly&show_icons=true&count_private=true&theme=dark)
