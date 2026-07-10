@@ -28,7 +28,8 @@ automation, and developing efficient, user-friendly web applications.
 ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=flat&logo=Debian&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF.svg?style=flat&logo=Zed-Industries&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=flat&logo=Astro&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)
 
 ### 📫 Contact
 
