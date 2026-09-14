@@ -5,7 +5,8 @@
 ## Sysadmin / DevOps / Webdev
 
 I specialize in building and maintaining robust infrastructure, streamlining
-automation, and developing efficient, user-friendly web applications.
+automation, developing efficient, user-friendly web applications, and creating
+game mods and custom gameplay experiences.
 
 ### 🚀 Current Focus
 
@@ -13,6 +14,7 @@ automation, and developing efficient, user-friendly web applications.
 - Improving automation workflows
 - Exploring cloud-native tools
 - Developing performant web apps
+- Creating and maintaining game mods
 
 ### 🧠 Interests
 
@@ -20,6 +22,7 @@ automation, and developing efficient, user-friendly web applications.
 - Self-hosting
 - Automation
 - DevOps
+- Game Modding
 - Open Source
 
 ### 🛠️ Tech Stack
